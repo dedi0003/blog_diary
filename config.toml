@@ -1,4 +1,6 @@
 baseURL = "/"
+relativeURLs = true
+uglyURLs = true
 title   = "diary_business_analyst"
 languageCode = "en-us"
 theme = "timeline"
@@ -144,7 +146,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "timeline"
     name       = "history"
-    url        = "https://hopeful-swanson-5e8f23.netlify.app/timeline/"
+    url        = "timeline/"
     weight     = 1
 
 
