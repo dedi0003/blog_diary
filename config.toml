@@ -1,4 +1,4 @@
-baseURL = "https://github.com/dedi0003/blog_diary/tree/master/public"
+baseURL = "/"
 relativeURLs = true
 uglyURLs = true
 title   = "diary_business_analyst"
@@ -146,7 +146,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "timeline"
     name       = "history"
-    url        = "https://github.com/dedi0003/blog_diary/tree/master/public/timeline/"
+    url        = "/timeline/"
     weight     = 1
 
 
